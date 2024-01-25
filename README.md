@@ -41,10 +41,6 @@ bottomNavigationBar: Thebrioflashynavbar(
           icon: Icon(Icons.settings),
           title: Text('Settings'),
         ),
-        ThebrioflashynavbarItem(
-          icon: Icon(Icons.settings),
-          title: Text('한국어'),
-        ),
       ],
 ),
 ```
